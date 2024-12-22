@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eman062000
-- 👀 I’m interested in Home assistant
-- 🌱 I’m currently learning Home assistant
+- 👀 I’m interested by IA, automatisation and many many things
+- 🌱 I’m currently learning...
 - 💞️ I’m looking to collaborate on same
 - 📫 How to reach me ...
 
